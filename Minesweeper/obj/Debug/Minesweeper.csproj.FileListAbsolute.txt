@@ -1,0 +1,10 @@
+D:\source\C#\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\source\C#\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\source\C#\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.EasyMode.resources
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.StartScreen.resources
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\source\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
